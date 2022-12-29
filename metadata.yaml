@@ -1,11 +1,16 @@
 _repo: Napoleon-and-his-court_69585
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69585-h/images/cover.jpg
 creator:
   author:
     agent_name: Forester, C. S.
     gutenberg_agent_id: '55332'
     url: http://www.gutenberg.org/2009/agents/55332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69585#Napoleon-and-his-court
 gutenberg_issued: '2022-12-19'
 identifiers:
   gutenberg: '69585'
